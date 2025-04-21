@@ -1,0 +1,6 @@
+{
+  "clusterName": "minikube-cluster",
+  "scanner": "Kubescape",
+  ...
+  ]
+}
